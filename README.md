@@ -1,13 +1,13 @@
-Hello!
+# Hello!
 
-For using DB send your IP to me)
+## For using DB send your IP to me)
 
-Hostname: mysql.essense.myjino.ru
-Port: 3306
-User: 045332084_test
-Password: testUser
+- Hostname: mysql.essense.myjino.ru
+- Port: 3306
+- User: 045332084_test
+- Password: testUser
 
-Second task as SQL query:
+## Second task as SQL query:
 =============
 
 with ProfitCTE as 
