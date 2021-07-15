@@ -8,8 +8,7 @@
 - Password: testUser
 
 ## Second task as SQL query:
-=============
-
+```
 with ProfitCTE as 
 (
 	select A.actor_name as actor,
@@ -22,4 +21,4 @@ with ProfitCTE as
 select distinct * from ProfitCTE P
 order by P.profit desc
 limit 3;
-
+```
