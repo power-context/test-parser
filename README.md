@@ -2,6 +2,11 @@ Hello!
 
 For using DB send your IP to me)
 
+Hostname: mysql.essense.myjino.ru
+Port: 3306
+User: 045332084_test
+Password: testUser
+
 Second task as SQL query:
 =============
 
